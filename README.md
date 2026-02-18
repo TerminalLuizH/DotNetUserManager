@@ -17,4 +17,8 @@ Funcionalidades:
 -Tratamento básico de erros;
 
 Tecnologias utilizadas
-
+-C#;
+-.NET;
+-SQL Server;
+-ADO.NET;
+-Visual Studio;
