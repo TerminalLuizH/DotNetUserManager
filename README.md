@@ -26,3 +26,6 @@ Tecnologias utilizadas
 -Visual Studio;
 
 Este projeto foi desenvolvido para consolidar conhecimentos em manipulação de banco de dados com c# e boas práticas iniciais de desenvolvimento backend.
+
+
+
